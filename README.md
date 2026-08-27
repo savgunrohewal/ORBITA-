@@ -65,23 +65,9 @@ orbita/
 └── index.html
 ```
 
-### 3. Run it using a local server
+### 3. Run it using the deployed link
 
-Webcam access generally requires a secure context such as **localhost** or **HTTPS**.
-
-If you're using VS Code, install the **Live Server** extension and open `index.html` with it.
-
-Or use Python:
-
-```bash
-python3 -m http.server 5500
-```
-
-Then visit:
-
-```text
-http://localhost:5500
-```
+https://orbiita.netlify.app/
 
 ### 4. Allow camera access
 
